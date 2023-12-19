@@ -9,3 +9,8 @@ resultado += 5;
 resultado++;
 
 Console.WriteLine(resultado);
+
+int inteiro = 32;
+string teste = inteiro.ToString() + 10;
+
+Console.WriteLine(teste);
