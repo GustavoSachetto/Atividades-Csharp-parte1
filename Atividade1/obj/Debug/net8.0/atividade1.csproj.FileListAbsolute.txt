@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Desktop\ESCOLA\C#\atividade1\obj\Debug\net8.0\atividade1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\ESCOLA\C#\atividade1\obj\Debug\net8.0\atividade1.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\ESCOLA\C#\atividade1\obj\Debug\net8.0\atividade1.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\ESCOLA\C#\atividade1\obj\Debug\net8.0\atividade1.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\ESCOLA\C#\atividade1\bin\Debug\net8.0\atividade1.exe
+C:\Users\Gustavo\Desktop\ESCOLA\C#\atividade1\bin\Debug\net8.0\atividade1.deps.json
+C:\Users\Gustavo\Desktop\ESCOLA\C#\atividade1\bin\Debug\net8.0\atividade1.runtimeconfig.json
+C:\Users\Gustavo\Desktop\ESCOLA\C#\atividade1\bin\Debug\net8.0\atividade1.dll
+C:\Users\Gustavo\Desktop\ESCOLA\C#\atividade1\bin\Debug\net8.0\atividade1.pdb
+C:\Users\Gustavo\Desktop\ESCOLA\C#\atividade1\obj\Debug\net8.0\atividade1.dll
+C:\Users\Gustavo\Desktop\ESCOLA\C#\atividade1\obj\Debug\net8.0\refint\atividade1.dll
+C:\Users\Gustavo\Desktop\ESCOLA\C#\atividade1\obj\Debug\net8.0\atividade1.pdb
+C:\Users\Gustavo\Desktop\ESCOLA\C#\atividade1\obj\Debug\net8.0\atividade1.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\ESCOLA\C#\atividade1\obj\Debug\net8.0\ref\atividade1.dll

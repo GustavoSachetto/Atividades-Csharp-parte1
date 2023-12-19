@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "atividade1", "Atividade1\atividade1.csproj", "{D0895CEE-761A-4D52-8C45-DFE7BB223797}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "atividade2", "Atividade2\atividade2.csproj", "{204421C9-933E-4C99-A30A-1B76EC0CC19C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0895CEE-761A-4D52-8C45-DFE7BB223797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0895CEE-761A-4D52-8C45-DFE7BB223797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0895CEE-761A-4D52-8C45-DFE7BB223797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0895CEE-761A-4D52-8C45-DFE7BB223797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{204421C9-933E-4C99-A30A-1B76EC0CC19C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204421C9-933E-4C99-A30A-1B76EC0CC19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204421C9-933E-4C99-A30A-1B76EC0CC19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204421C9-933E-4C99-A30A-1B76EC0CC19C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5DC9FBE-0277-4B0D-997C-2011C24E980E}
+	EndGlobalSection
+EndGlobal
