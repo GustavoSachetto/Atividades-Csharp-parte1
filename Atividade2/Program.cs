@@ -30,3 +30,5 @@ int valorB = 0;
 int.TryParse(valorA, out valorB);
 
 Console.WriteLine(valorB);
+
+bool depurando = inteiro >= n2;

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gustavo\\Desktop\\ESCOLA\\C#\\atividade2\\atividade2.csproj": {}
+    "C:\\Users\\Gustavo\\Desktop\\ESCOLA\\C#\\Atividade2\\atividade2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gustavo\\Desktop\\ESCOLA\\C#\\atividade2\\atividade2.csproj": {
+    "C:\\Users\\Gustavo\\Desktop\\ESCOLA\\C#\\Atividade2\\atividade2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\ESCOLA\\C#\\atividade2\\atividade2.csproj",
+        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\ESCOLA\\C#\\Atividade2\\atividade2.csproj",
         "projectName": "atividade2",
-        "projectPath": "C:\\Users\\Gustavo\\Desktop\\ESCOLA\\C#\\atividade2\\atividade2.csproj",
+        "projectPath": "C:\\Users\\Gustavo\\Desktop\\ESCOLA\\C#\\Atividade2\\atividade2.csproj",
         "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo\\Desktop\\ESCOLA\\C#\\atividade2\\obj\\",
+        "outputPath": "C:\\Users\\Gustavo\\Desktop\\ESCOLA\\C#\\Atividade2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config"
