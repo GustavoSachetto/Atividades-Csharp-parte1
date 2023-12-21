@@ -26,7 +26,7 @@ namespace Atividade4.Models
         public void Potencia(int x, int y)
         {
             double pot = Math.Pow(x, y);
-            Console.WriteLine($"{x}^{y} = pot");
+            Console.WriteLine($"{x}^{y} = {pot}");
         }
         public void Raiz(double x)
         {
