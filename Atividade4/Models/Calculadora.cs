@@ -28,5 +28,10 @@ namespace Atividade4.Models
             double pot = Math.Pow(x, y);
             Console.WriteLine($"{x}^{y} = pot");
         }
+        public void Raiz(double x)
+        {
+            double raiz = Math.Sqrt(x);
+            Console.WriteLine($"Raiz quadrada de {x} = {raiz}");
+        }
     }
 }
