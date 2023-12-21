@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gustavo\\Desktop\\ESCOLA\\C#\\atividade4\\atividade4.csproj": {}
+    "C:\\Users\\Gustavo\\Desktop\\ESCOLA\\C#\\Atividade4\\atividade4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gustavo\\Desktop\\ESCOLA\\C#\\atividade4\\atividade4.csproj": {
+    "C:\\Users\\Gustavo\\Desktop\\ESCOLA\\C#\\Atividade4\\atividade4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\ESCOLA\\C#\\atividade4\\atividade4.csproj",
+        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\ESCOLA\\C#\\Atividade4\\atividade4.csproj",
         "projectName": "atividade4",
-        "projectPath": "C:\\Users\\Gustavo\\Desktop\\ESCOLA\\C#\\atividade4\\atividade4.csproj",
+        "projectPath": "C:\\Users\\Gustavo\\Desktop\\ESCOLA\\C#\\Atividade4\\atividade4.csproj",
         "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo\\Desktop\\ESCOLA\\C#\\atividade4\\obj\\",
+        "outputPath": "C:\\Users\\Gustavo\\Desktop\\ESCOLA\\C#\\Atividade4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config"
