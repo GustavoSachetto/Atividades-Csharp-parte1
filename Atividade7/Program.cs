@@ -1,4 +1,6 @@
-﻿while (true)
+﻿string opcao;
+
+while (true)
 {
 
     Console.WriteLine("1 - Cadastrar cliente");

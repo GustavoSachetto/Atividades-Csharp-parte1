@@ -3,3 +3,13 @@ C:\Users\Gustavo\Desktop\ESCOLA\C#\Atividade7\obj\Debug\net8.0\Atividade7.Assemb
 C:\Users\Gustavo\Desktop\ESCOLA\C#\Atividade7\obj\Debug\net8.0\Atividade7.AssemblyInfo.cs
 C:\Users\Gustavo\Desktop\ESCOLA\C#\Atividade7\obj\Debug\net8.0\Atividade7.csproj.CoreCompileInputs.cache
 C:\Users\Gustavo\Desktop\ESCOLA\C#\Atividade7\obj\Debug\net8.0\Atividade7.sourcelink.json
+C:\Users\Gustavo\Desktop\ESCOLA\C#\atividade7\bin\Debug\net8.0\Atividade7.exe
+C:\Users\Gustavo\Desktop\ESCOLA\C#\atividade7\bin\Debug\net8.0\Atividade7.deps.json
+C:\Users\Gustavo\Desktop\ESCOLA\C#\atividade7\bin\Debug\net8.0\Atividade7.runtimeconfig.json
+C:\Users\Gustavo\Desktop\ESCOLA\C#\atividade7\bin\Debug\net8.0\Atividade7.dll
+C:\Users\Gustavo\Desktop\ESCOLA\C#\atividade7\bin\Debug\net8.0\Atividade7.pdb
+C:\Users\Gustavo\Desktop\ESCOLA\C#\atividade7\obj\Debug\net8.0\Atividade7.dll
+C:\Users\Gustavo\Desktop\ESCOLA\C#\atividade7\obj\Debug\net8.0\refint\Atividade7.dll
+C:\Users\Gustavo\Desktop\ESCOLA\C#\atividade7\obj\Debug\net8.0\Atividade7.pdb
+C:\Users\Gustavo\Desktop\ESCOLA\C#\atividade7\obj\Debug\net8.0\Atividade7.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\ESCOLA\C#\atividade7\obj\Debug\net8.0\ref\Atividade7.dll
