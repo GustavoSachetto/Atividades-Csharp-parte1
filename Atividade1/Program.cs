@@ -1,19 +1,24 @@
-﻿List<string> listaEstado = new List<string>();
+﻿using Atividade1.Models;
 
-listaEstado.Add("SP");
-listaEstado.Add("RJ");
-listaEstado.Add("MG");
-listaEstado.Add("AM");
-listaEstado.Add("GO");
-listaEstado.Add("ES");
+Pessoa pessoa1 = new Pessoa();
+pessoa1.Nome = "Gustavo";
+pessoa1.Idade = 17;
+pessoa1.Altura = 1.80;
+pessoa1.Peso = 56.99M;
+pessoa1.Status = true;
 
-Console.WriteLine($" Itens na minha lista: {listaEstado.Count} - Capacidade: {listaEstado.Capacity}");
+Pessoa pessoa2 = new Pessoa();
+pessoa2.Nome = "João";
+pessoa2.Idade = 27;
+pessoa2.Altura = 1.63;
+pessoa2.Peso = 62.20M;
+pessoa2.Status = false;
 
-foreach (var item in listaEstado)
-{
-    Console.WriteLine(item);
-}
+DateTime dataAtual = DateTime.Now;
 
-listaEstado.Remove("AM");
+Console.WriteLine(dataAtual);
+pessoa1.Apresentar();
+pessoa1.VerificaStatus();
 
-Console.WriteLine($" Itens na minha lista: {listaEstado.Count} - Capacidade: {listaEstado.Capacity}");
+pessoa2.Apresentar();
+pessoa2.VerificaStatus();
